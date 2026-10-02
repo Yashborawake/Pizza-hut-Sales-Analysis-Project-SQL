@@ -1,0 +1,44 @@
+Questions
+
+🟢 Basic SQL Questions
+
+1. Retrieve the total number of orders placed
+2. Find the total revenue generated from pizza sales
+3. List all unique pizza categories
+4. Identify the highest-priced pizza
+5. Identify the lowest-priced pizza
+6. Find the most common pizza size ordered
+7. Join pizza tables to show pizza name, size, category, and price together.
+8. Find the number of orders placed each day
+9. Show total pizzas sold (sum of quantity)
+10. Retrieve all pizzas along with their price and category
+
+
+🟡 Intermediate SQL Questions
+
+
+11. Calculate the total quantity ordered for each pizza
+12. Determine the distribution of orders by hour of the day
+13. Calculate revenue generated per pizza type
+14. Calculate total revenue per pizza category
+15. Find the average number of pizzas ordered per day
+16. Show category-wise number of pizzas sold
+17. List the top 3 pizza sizes ordered by total quantity
+18. Join pizza tables to show pizza name, size, category, and price together
+19. Determine the top 3 most ordered pizza types based on revenue
+20. Find the day with the highest number of orders
+21. Identify the pizza that generated the highest revenue
+22. Find monthly revenue trends
+
+
+🔴 Advanced SQL Questions
+
+
+23. Calculate the percentage contribution of each pizza category to total revenue
+24. Create a cumulative revenue report over time
+25. Find the most ordered pizza in each category
+26. Determine the top 3 pizzas by revenue in each category
+27. Analyze sales patterns by weekday vs weekend
+28. Find the average order value (AOV)
+29. Determine which pizza size generates the most revenue
+
