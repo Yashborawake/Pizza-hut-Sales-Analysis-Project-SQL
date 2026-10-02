@@ -85,17 +85,4 @@ These insights can support **sales planning, product strategy, inventory managem
 
 ---
 
-## 📁 Project Structure
 
-```text
-Pizza-hut-Sales-Analysis-Project-SQL/
-│
-├── Dataset/
-│   └── pizza_sales.csv
-│
-├── Questions/
-│   └── SQL_Questions.sql
-│
-├── pizzahut_Analysis_sqlProject.ipynb
-│
-└── README.md
